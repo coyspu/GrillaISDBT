@@ -75,34 +75,39 @@
     "logo": "logos/canal-rural-ar.png"
   },
   {
-    "number": "14.1",
+    "number": "12.1",
     "name": "TV Publica HD",
     "logo": "logos/television-publica-ar.png"
   },
   {
-    "number": "14.2",
+    "number": "12.2",
     "name": "Magazine",
     "logo": "logos/ciudad-magazine-ar.png"
   },
   {
-    "number": "14.3",
+    "number": "12.3",
     "name": "Metro",
     "logo": "logos/metro-ar.png"
   },
   {
-    "number": "14.4",
+    "number": "12.4",
     "name": "Canal 26 HD",
     "logo": "logos/canal-26-ar.png"
   },
   {
-    "number": "14.5",
+    "number": "12.5",
     "name": "TELERED Marcos Juarez",
     "logo": "logos/telered-marcos-juarez-ar.png"
   },
   {
-    "number": "14.6",
+    "number": "12.6",
     "name": "ARGENTINISIMA HD",
     "logo": "logos/argentinisima-satelital-ar.png"
+  },
+  {
+    "number": "12.7",
+    "name": "CEGRO TV Gral. Roca",
+    "logo": "logos/cegro_tv_g_roca.png"
   },
   {
     "number": "20.1",
