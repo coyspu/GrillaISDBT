@@ -330,6 +330,26 @@
     "name": "CINE FAMILIAR HD",
     "logo": "logos/cine-familiar-ar.png"
   },
+    {
+    "number": "44.1",
+    "name": "Volver",
+    "logo": "logos/volver-ar.png"
+  },
+  {
+    "number": "44.2",
+    "name": "RAI ITALIA",
+    "logo": "logos/RAI-italia-ar.png"
+  },
+  {
+    "number": "44.3",
+    "name": "TVE HD",
+    "logo": "logos/tve-ar.png"
+  },
+  {
+    "number": "44.4",
+    "name": "El Canal de las Estrellas HD",
+    "logo": "logos/estrellas.png"
+  },
   {
     "number": "50.1",
     "name": "HGTV HD",
@@ -419,26 +439,6 @@
     "number": "61.6",
     "name": "Love Nature HD",
     "logo": "logos/love-nature-ar.png"
-  },
-  {
-    "number": "44.1",
-    "name": "Volver",
-    "logo": "logos/volver-ar.png"
-  },
-  {
-    "number": "44.2",
-    "name": "RAI ITALIA",
-    "logo": "logos/RAI-italia-ar.png"
-  },
-  {
-    "number": "44.3",
-    "name": "TVE HD",
-    "logo": "logos/tve-ar.png"
-  },
-  {
-    "number": "44.4",
-    "name": "El Canal de las Estrellas HD",
-    "logo": "logos/estrellas.png"
   },
   {
     "number": "70.1",
