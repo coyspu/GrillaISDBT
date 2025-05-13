@@ -110,6 +110,21 @@
     "logo": "logos/canal-rural-ar.png"
   },
   {
+    "number": "13.6",
+    "name": "Canal A",
+    "logo": "logos/canal-a-ar.png"
+  },
+  {
+    "number": "13.7",
+    "name": "Canal 3 Rosario",
+    "logo": "logos/canal-3-rosario.png"
+  },
+  {
+    "number": "13.8",
+    "name": "Canal 5 Rosario",
+    "logo": "logos/canal-5-rosario.png"
+  },
+  {
     "number": "20.1",
     "name": "ESPN HD",
     "logo": "logos/espn-ar.png"
@@ -215,6 +230,11 @@
     "name": "DISCOVERY KIDS HD",
     "logo": "logos/discovery-kids-ar.png"
   },
+    {
+    "number": "30.7",
+    "name": "Golden HD",
+    "logo": "logos/golden-lam.png"
+  },
   {
     "number": "40.1",
     "name": "TNT Series HD",
@@ -296,11 +316,6 @@
     "logo": "logos/dhe-ar.png"
   },
   {
-    "number": "42.6",
-    "name": "Europa Europa HD",
-    "logo": "logos/europa-europa-ar.png"
-  },
-  {
     "number": "43.1",
     "name": "Film & Arts HD",
     "logo": "logos/film-and-arts-ar.png"
@@ -331,6 +346,11 @@
     "logo": "logos/cine-familiar-ar.png"
   },
   {
+    "number": "44.5",
+    "name": "Home & Health HD",
+    "logo": "logos/discovery-home-and-health-ar.png"
+  },
+  {
     "number": "50.1",
     "name": "HGTV HD",
     "logo": "logos/hgtv-ar.png"
@@ -359,16 +379,6 @@
     "number": "50.6",
     "name": "Mas chic HD",
     "logo": "logos/mas-chic-ar.png"
-  },
-  {
-    "number": "50.7",
-    "name": "Home & Health HD",
-    "logo": "logos/discovery-home-and-health-ar.png"
-  },
-  {
-    "number": "50.8",
-    "name": "Canal A",
-    "logo": "logos/canal-a-ar.png"
   },
   {
     "number": "60.1",
@@ -416,9 +426,9 @@
     "logo": "logos/sun-channel-ar.png"
   },
   {
-    "number": "61.6",
-    "name": "Love Nature HD",
-    "logo": "logos/love-nature-ar.png"
+    "number": "62.5",
+    "name": "Europa Europa HD",
+    "logo": "logos/europa-europa-ar.png"
   },
   {
     "number": "44.1",
@@ -437,7 +447,18 @@
   },
   {
     "number": "70.1",
+    "name": "Love Nature HD",
+    "logo": "logos/love-nature-ar.png"
+  },
+  {
+    "number": "70.6",
     "name": "EWTN",
     "logo": "logos/ewtn-ar.png"
+  },
+  {
+    "number": "70.7",
+    "name": "Canal Luz",
+    "logo": "logos/canal-luz-ar.png"
   }
+  
 ]
