@@ -445,11 +445,6 @@
     "logo": "logos/sun-channel-ar.png"
   },
   {
-    "number": "61.6",
-    "name": "Love Nature HD",
-    "logo": "logos/love-nature-ar.png"
-  },
-  {
     "number": "44.1",
     "name": "Volver",
     "logo": "logos/volver-ar.png"
@@ -466,6 +461,11 @@
   },
   {
     "number": "70.1",
+    "name": "Love Nature HD",
+    "logo": "logos/love-nature-ar.png"
+  },
+  {
+    "number": "70.6",
     "name": "EWTN",
     "logo": "logos/ewtn-ar.png"
   },
